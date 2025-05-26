@@ -16,7 +16,7 @@ We analyzed bestselling book data from Amazon (2009–2019) to understand:
 
 ## 📁 Folder Structure
 
-- `data/`: Raw and extracted dataset
+- `output/`: Raw and extracted dataset
 - `notebooks/`: Python + SQL notebook used for querying and analysis
 - `sql/`: Final cleaned SQL queries
 - `dashboard/`: Screenshot + link to Tableau dashboard

@@ -4,7 +4,7 @@ This project explores book sales and review data using SQL and Tableau to extrac
 
 ## 📊 Project Overview
 
-We analyzed bestselling book data from Amazon (2009–2019) to understand:
+I analyzed bestselling book data from Amazon (2009–2019) to understand:
 - Which genres and authors are most popular
 - How pricing correlates with reader engagement
 - What factors might help identify high-value authors
